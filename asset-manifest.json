@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/joseph-sauto/static/css/main.2985d029.css",
+    "main.js": "/joseph-sauto/static/js/main.b97d1a5a.js",
+    "static/media/profile.jpg": "/joseph-sauto/static/media/profile.fd5a4fc246540db1ed6b.jpg",
+    "index.html": "/joseph-sauto/index.html",
+    "main.2985d029.css.map": "/joseph-sauto/static/css/main.2985d029.css.map",
+    "main.b97d1a5a.js.map": "/joseph-sauto/static/js/main.b97d1a5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2985d029.css",
+    "static/js/main.b97d1a5a.js"
+  ]
+}
